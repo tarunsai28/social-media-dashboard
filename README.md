@@ -89,7 +89,7 @@ streamlit run app.py
 
 ---
 
-👤 Author
+###👤 Author
 Tarun Sai Tirumala
 M.S. Computer Science
 📫 GitHub | LinkedIn
