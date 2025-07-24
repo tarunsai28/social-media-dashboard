@@ -50,15 +50,15 @@ The raw data required significant preprocessing, all of which was done using Pan
 
 ## 📂 Project Structure
 
-social-media-dashboard/
-├── Data Processing/
-│ └── Data Processing.ipynb
-├── app.py
-├── cleaned_data.xlsx
-├── requirements.txt
-├── README.md
-├── Screenshot 2025-07-23 220631.jpg
-├── Screenshot 2025-07-23 220650.jpg
+-social-media-dashboard/
+-├── Data Processing/
+-│ └── Data Processing.ipynb
+-├── app.py
+-├── cleaned_data.xlsx
+-├── requirements.txt
+-├── README.md
+-├── Screenshot 2025-07-23 220631.jpg
+-├── Screenshot 2025-07-23 220650.jpg
 
 ## 💻 How to Run the App Locally
 
