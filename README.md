@@ -70,9 +70,9 @@ social-media-dashboard/
 - Plotly
 - OpenPyXL
 
-### 🔧 Setup
+## 🔧 Setup
 
----bash
+```bash
 # Clone the repository
 git clone https://github.com/tarunsai28/social-media-dashboard.git
 cd social-media-dashboard
@@ -87,8 +87,8 @@ pip install -r requirements.txt
 # Run the app
 streamlit run app.py
 
----
+"""
 
-### 👤 Author
+## 👤 Author
 Tarun Sai Tirumala
 M.S. Computer Science
