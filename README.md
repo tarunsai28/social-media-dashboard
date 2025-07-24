@@ -43,9 +43,14 @@ social-media-dashboard/
 ```bash
 git clone https://github.com/your-username/social-media-dashboard.git
 cd social-media-dashboard
+<<<<<<< HEAD
 
 2. Create Virtual Environment (Optional but Recommended)
 ---
+=======
+2. Create Virtual Environment (Optional but Recommended)
+bash
+>>>>>>> 796ee1314f20c1503ba4d95affa473a3a621766e
 Copy
 Edit
 python -m venv venv
@@ -92,4 +97,8 @@ Edit
 ✍️ Author
 Tarun Sai Tirumala
 Graduate Student – Computer Science
+<<<<<<< HEAD
 📧 tarunsaitirumala@gmail.com
+=======
+📧 tarunsaitirumala@gmail.com
+>>>>>>> 796ee1314f20c1503ba4d95affa473a3a621766e
