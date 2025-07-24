@@ -72,7 +72,7 @@ social-media-dashboard/
 
 ### 🔧 Setup
 
-```bash
+---bash
 # Clone the repository
 git clone https://github.com/tarunsai28/social-media-dashboard.git
 cd social-media-dashboard
@@ -89,7 +89,6 @@ streamlit run app.py
 
 ---
 
-###👤 Author
+### 👤 Author
 Tarun Sai Tirumala
 M.S. Computer Science
-📫 GitHub | LinkedIn
